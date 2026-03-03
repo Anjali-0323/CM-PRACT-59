@@ -1,11 +1,3 @@
-Here are two short HTML texts and one recipe text:
-
-### 1️⃣ Short HTML Text 1
-
-```html
-<!DOCTYPE html>
-<html>
-
 
 ---
 
